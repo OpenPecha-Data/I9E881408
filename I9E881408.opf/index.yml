@@ -1,0 +1,19 @@
+id: 714b3b95453848669f861c8250af3003
+annotation_type: index
+revision: '00001'
+annotations:
+  b44556aa8d204cf1996edcb3c497a52d:
+    base: ADF2.txt
+    Chapters:
+    - title: Title
+      span:
+        start: 0
+        end: 72
+    - title: 'Chapter I: Nidāna'
+      span:
+        start: 73
+        end: 44311
+    - title: 'Chapter II: Praṇidhānacaryā'
+      span:
+        start: 44312
+        end: 49262
